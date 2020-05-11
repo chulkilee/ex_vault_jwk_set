@@ -1,0 +1,9 @@
+/_build/
+/.fetch
+/cover/
+/deps/
+/doc/
+
+*.ez
+erl_crash.dump
+ex_vault_jwk_set-*.tar
