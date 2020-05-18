@@ -1,7 +1,7 @@
 defmodule ExVault.JwkSet.MixProject do
   use Mix.Project
 
-  @version "0.0.1-dev"
+  @version "0.0.1"
 
   def project do
     [
